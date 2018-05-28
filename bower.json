@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap4-alura",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/geansaturno/bootstrap4-alura",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

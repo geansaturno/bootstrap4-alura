@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap4-alura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bower": "bower"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geansaturno/bootstrap4-alura.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geansaturno/bootstrap4-alura/issues"
+  },
+  "homepage": "https://github.com/geansaturno/bootstrap4-alura#readme",
+  "devDependencies": {
+    "bower": "^1.8.4"
+  }
+}
